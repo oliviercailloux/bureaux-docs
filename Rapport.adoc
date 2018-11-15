@@ -55,7 +55,7 @@ Les raisons de déployer les efforts nécessaires pour libérer une salle de ré
 Le groupe de travail propose d’utiliser la salle B214 comme salle de réunion permanente. La salle en A525 qui devrait être prochainement attribuée au LAMSADE servirait à remplacer son usage actuel (c-à-d à accueillir des doctorants).
 
 === Planning en ligne pour salles de réunion
-Il est demandé de débloquer un budget pour développer une application web permettant de réserver une salle de réunion facilement, de voir celles qui sont libres, et de permettre aux membres d’indiquer leurs absences pour ceux qui veulent bien qu’on utilise leur bureau comme salle de réunion.
+Il est demandé de débloquer un budget pour développer une application web permettant de réserver une salle de réunion facilement, de voir les plages horaires libres, et permettant aux membres d’indiquer leurs absences (pour ceux qui veulent bien qu’on utilise leur bureau comme salle de réunion).
 
 * Outre la salle en B214 que ce rapport propose de libérer, nous avons régulièrement une ou plusieurs salles libres, en fonction des absences.
 * Ces salles sont d’exploitation peu pratiques (y compris la B214) car il faut s’y rendre pour voir si elles sont libres ou pour inscrire son nom sur la feuille pour réserver (et faire éventuellement le tour de toutes les salles potentiellement disponibles, éventuellement suivi de l’invité avec qui on veut s’entretenir).
