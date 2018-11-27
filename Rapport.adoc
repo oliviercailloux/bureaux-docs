@@ -23,25 +23,25 @@ Il semble que l’université s’apprête à fournir au LAMSADE un bureau suppl
 == Propositions
 En résumé, les propositions ci-dessous visent à :
 
-* créer huit places supplémentaires pour les doctorants (portant le total à 39 places) ;
+* créer huit places supplémentaires pour les doctorants (portant le total à 40 places ou 34 en diminuant l’occupation des salles C) ;
 * utiliser la salle B214 comme salle de réunion (l’aspect bruit alentours étant moins handicapant pour cet usage) ;
 * proposer quelques autres actions pour améliorer la situation des doctorants.
 
 === Places supplémentaires pour doctorants
 Les propositions s’articulent autour de la généreuse proposition de certains membres du laboratoire de partager leur bureau pour améliorer la situation des doctorants. Qu’ils en soient ici remerciés.
 
-* Remzy (actuellement en P647) et Jérôme Lang proposent de partager le bureau de Jérôme (P645).
-* Juliette Rouchier et Yves (P621) proposent d’ajouter du mobilier dans leur bureau pour y accueillir un doctorant à temps plein, et de partager leurs deux places pour y accueillir deux doctorants (par exemple CIFRE) qui devront leur laisser la place quand Juliette et Yves sont présents (c-à-d moins d’un jour par semaine en moyenne). [Il est possible qu’une de ces places soit occupée par un post-doc engagé par Juliette et Yves.]
-* Laurent et Michail proposent d’ajouter du mobilier dans leur bureau (P622) pour y accueillir un doctorant (ou une autre personne) à temps plein.
-* Florian Yger et Olivier Cailloux (P405ter) proposent d’accueillir un doctorant (qu’ils n’encadrent pas) à temps plein dans leur bureau.
+* Remzy (actuellement en P647) et Jérôme Lang acceptent de partager le bureau de Jérôme (P645), à la condition expresse que d’autres personnes jouent le jeu (et voir autres conditions ci-dessous).
+* Juliette Rouchier et Yves (P621) proposent d’ajouter du mobilier dans leur bureau pour y accueillir une personne supplémentaire à temps plein, et de partager leurs deux places pour y accueillir deux doctorants (par exemple CIFRE) qui devront leur laisser la place quand Juliette et Yves sont présents (c-à-d moins d’un jour par semaine en moyenne). [Il est possible qu’une de ces places soit occupée par un post-doc engagé prochainement par Juliette et Yves.]
+* Laurent et Michail proposent d’ajouter du mobilier dans leur bureau (P622) pour y accueillir une personne à temps plein.
+* Florian Yger et Olivier Cailloux (P405ter) proposent d’accueillir une personne à temps plein dans leur bureau.
 * Benjamin Negrevergne et Hassène Aissi (P407) proposent d’accueillir un doctorant à temps plein dans leur bureau.
 * Ali (partageant actuellement le bureau de Remzi) accepte de déménager dans le bureau de Laurent et Michail (à condition de trouver une place pour ses livres).
 
 Ces propositions s’assortissent de conditions.
 
 * L’ensemble des propositions vient ensemble, elles ne tiennent pas nécessairement individuellement (sauf concernant Juliette) si d’autres ne se font pas.
-* Il est proposé d’essayer la configuration proposée pendant une année, au terme de laquelle les proposants et les bénéficiaires feront le point et décideront ou non de la reconduction de l’expérience.
-* Il faudra fournir aux personnes qui ont normalement droit à un bureau seul et qui acceptent de le partager un accès prioritaire à la salle des professeurs invités, pour qu’ils puissent continuer à accueillir des invités.
+* Il est proposé d’essayer la configuration proposée pendant une année, au terme de laquelle les proposants et les bénéficiaires feront le point et décideront de reconduire l’expérience ou non.
+* Il faudra fournir aux personnes qui ont normalement droit à un bureau seul et qui acceptent de le partager, pour qu’ils puissent continuer à accueillir des invités dans des conditions confortables, une garantie sans exception (un droit opposable) de pouvoir loger leur invité dans un bureau de maximum deux personnes.
 * Il faudra avoir à disposition une salle de réunion avec suffisamment de créneaux horaires disponibles pour compenser la difficulté accrue de tenir des réunions de travail lorsqu’on partage son bureau.
 
 En meublant le P647 pour y accueillir quatre doctorants, on crée ainsi huit places supplémentaires pour les doctorants.
