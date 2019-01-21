@@ -16,35 +16,39 @@ Le Conseil de Laboratoire a décidé le 12 juin de créer un groupe de réflexio
 Ce rapport vise à proposer des pistes pour améliorer le confort de travail des doctorants au LAMSADE, entre autres mais pas seulement, en leur fournissant dans la mesure du possible plus d’espaces de travail.
 
 == Situation actuelle
-Les doctorants disposent actuellement des bureaux C602, C603 bis, C605, contenant respectivement 8, 9 et 9 places. Une salle supplémentaire est en train d’être mise à leur disposition en B214 (non encore occupée au moment de la rédaction de ce rapport), contenant 6 places. Cette salle n’est pas très appréciée des doctorants car elle est éloignée et située entre des salles de cours, donc avec du bruit alentours. Elle a cependant été insonorisée récemment. Le nombre de doctorants recensés sur le site du LAMSADE au moment de la rédaction de ce rapport est 44 (mais la liste est en cours de mise à jour).
+Les doctorants disposent actuellement des bureaux C602, C603 bis, C605, contenant respectivement 8, 9 et 9 places. Une salle supplémentaire est en train d’être mise à leur disposition en B214, contenant 6 places. Cette salle est éloignée et située entre des salles de cours, donc avec du bruit alentours, mais elle a été insonorisée récemment. Le nombre de doctorants recensés sur le site du LAMSADE au moment de la rédaction de ce rapport est 44 (mais la liste est en cours de mise à jour).
 
 Il semble que l’université s’apprête à fournir au LAMSADE un bureau supplémentaire en A525, dont nous nous servons dans la proposition ci-dessous.
 
 == Propositions
-En résumé, les propositions ci-dessous visent à :
-
-* créer huit places supplémentaires pour les doctorants (portant le total à 40 places ou 34 en diminuant l’occupation des salles C) ;
-* utiliser la salle B214 comme salle de réunion (l’aspect bruit alentours étant moins handicapant pour cet usage) ;
-* proposer quelques autres actions pour améliorer la situation des doctorants.
-
-=== Places supplémentaires pour doctorants
-Les propositions s’articulent autour de la généreuse proposition de certains membres du laboratoire de partager leur bureau pour améliorer la situation des doctorants. Qu’ils en soient ici remerciés.
-
-* Remzy (actuellement en P647) et Jérôme Lang acceptent de partager le bureau de Jérôme (P645), à la condition expresse que d’autres personnes jouent le jeu. Précision de Jérôme : Pour avoir la garantie que les visiteurs et émérites soient convenablement logés, avoir un seul bureau nous semble insuffisant : il suffit que, par exemple, Remzi et Jérôme L. aient chacun un visiteur en même temps pour que ce bureau soit entièrement occupé, ne laissant donc pas de place à d'autres visiteurs ou aux émérites. Obtenir un second bureau est possible s'il y a d'autres permanents (que ceux déjà listés) qui coopèrent. Une autre façon d'expliquer  "que d'autres personnes jouent le jeu" est d'envisager un roulement chaque année, et que chaque permanent (sauf responsabilités très importantes) s'engage à coopérer pendant au moins un an au cours des 3 années à venir.
+=== Places supplémentaires
 * Juliette Rouchier et Yves (P621) proposent d’ajouter du mobilier dans leur bureau pour y accueillir une personne supplémentaire à temps plein, et de partager leurs deux places pour y accueillir deux doctorants (par exemple CIFRE) qui devront leur laisser la place quand Juliette et Yves sont présents (c-à-d moins d’un jour par semaine en moyenne). [Il est possible qu’une de ces places soit occupée par un post-doc engagé prochainement par Juliette et Yves.]
 * Laurent et Michail proposent d’ajouter du mobilier dans leur bureau (P622) pour y accueillir une personne à temps plein.
-* Florian Yger et Olivier Cailloux (P405ter) proposent d’accueillir une personne à temps plein dans leur bureau.
-* Benjamin Negrevergne et Hassène Aissi (P407) proposent d’accueillir un doctorant à temps plein dans leur bureau.
-* Ali (partageant actuellement le bureau de Remzi) accepte de déménager dans le bureau de Laurent et Michail (à condition de trouver une place pour ses livres).
+* Florian Yger et Olivier Cailloux (P405ter) sont volontaires pour accueillir un doctorant à temps plein dans leur bureau.
+* Benjamin Negrevergne et Hassène Aissi (P407) sont volontaires pour accueillir un doctorant à temps plein dans leur bureau.
+* Rida Laraki indique qu’il veut bien partager son bureau avec un de ses doctorants occasionnellement : si une place dans un bureau doctorant est partagée entre deux de ses doctorants (dont un doit être présent à temps partiel), son bureau peut servir de repli lorsque les deux sont présents simultanément.
 
-Ces propositions s’assortissent de conditions.
+=== Propagation
+Il est suggéré à la direction d’envoyer un appel officiel aux bonnes volontés : les volontaires prêts à créer une place dans leur bureau pour accueillir eux aussi un doctorant sont invités à se déclarer auprès de la direction.
 
-* L’ensemble des propositions vient ensemble, elles ne tiennent pas nécessairement individuellement (sauf concernant Juliette) si d’autres ne se font pas.
-* Il est proposé d’essayer la configuration proposée pendant une année, au terme de laquelle les proposants et les bénéficiaires feront le point et décideront de reconduire l’expérience ou non.
-* Il faudra fournir aux personnes qui ont normalement droit à un bureau seul et qui acceptent de le partager, pour qu’ils puissent continuer à accueillir des invités dans des conditions confortables, une garantie sans exception (un droit opposable) de pouvoir loger leur invité dans un bureau de maximum deux personnes.
-* Il faudra avoir à disposition une salle de réunion avec suffisamment de créneaux horaires disponibles pour compenser la difficulté accrue de tenir des réunions de travail lorsqu’on partage son bureau.
+=== Climatisation
+D’ici à l’été prochain, il est proposé d’équiper les bureaux doctorants de climatiseurs mobiles.
 
-En meublant le P647 pour y accueillir quatre doctorants, on crée ainsi huit places supplémentaires pour les doctorants.
+=== Demande de modules supplémentaires à Paris-Dauphine
+D’après les règles d’attribution officielles, le LAMSADE a semble-t-il droit à 44 modules, et en dispose en pratique de 42,5 (voir `Occupation.odt` sur OwnCloud, TODO à mettre à jour). Ces totaux devraient être vérifiés par la direction et pourraient servir de base pour une (re-)négociation future.
+
+=== Échange C602 et C603
+Il est proposé d’étudier la possibilité de négocier avec la bibliothèque un échange de leur bureau C603 (très peu occupé) contre le bureau doctorant C602 (plus petit ?).
+
+== Pistes écartées pour le moment
+=== Regroupement
+Jérôme veut bien partager son bureau, mais à condition que d’autres personnes jouent le jeu, et il faut en échange une assurance complète que ses invités soient bien logés. À savoir, dans un bureau à maximum deux personnes. Pendant un temps, l’idée de regrouper Remzi (actuellement en P647, il avait marqué son accord de principe) et Jérôme (P645) avait été évoquée. Mais, outre la difficulté de trouver d’autres volontaires, les arguments suivant s’opposent à un tel regroupement.
+
+. Si on libère un bureau en regroupant deux rangs A, et qu’on réserve strictement une place pour invité à chacun en mettant maximum deux invités dans un bureau, il faut alors utiliser le bureau libéré uniquement comme bureau invités (ou salle de réunion en l’absence d’invités), on ne peut donc pas y mettre d’occupants à demeure.
+. Il faudra avoir à disposition une salle de réunion avec suffisamment de créneaux horaires disponibles pour compenser la difficulté accrue de tenir des réunions de travail lorsqu’on partage son bureau. Or, un regroupement de personnes présentes à temps partiel réduit la possibilité de réunions.
+. Laurent indique que les négociations concernant les bureaux à Dauphine se font sur base de l’allocation actuelle des bureaux aux personnes, et non sur base simplement du nombre total de bureaux auxquels on a droit : il faut faire valoir qu’il manque telle place à telle personne. En outre, si on a deux salles polyvalentes (salles de réunion et de prof. invités par exemple), en plus de notre salle café, ce pourrait être invoqué comme raison de ne pas nous donner de bureau supplémentaire.
+
+Pour mémoire, Jérôme indique également qu’une autre façon d'expliquer "que d'autres personnes jouent le jeu" est d'envisager un roulement chaque année, et que chaque permanent (sauf responsabilités très importantes) s'engage à coopérer pendant au moins un an au cours des 3 années à venir.
 
 === Salle de réunion
 Les raisons de déployer les efforts nécessaires pour libérer une salle de réunion sont multiples.
@@ -52,6 +56,8 @@ Les raisons de déployer les efforts nécessaires pour libérer une salle de ré
 * Disposer d’une salle de réunion serait très utile aux membres du LAMSADE (un sondage rapide organisé dans le groupe de réflexion fait ressortir ce besoin).
 * C’est une condition nécessaire pour rendre effectives les propositions de partage présentées à la section précédente.
 * Elle permettrait aux doctorants de s’isoler pour discuter de problèmes de recherche (entre eux ou avec leurs encadrants) et éviterait donc certaines discussions qui ont actuellement lieu dans le bureau doctorant lui-même, nuisant ainsi à la concentration de plusieurs autres personnes. (Le sondage indique que plusieurs doctorants utiliseraient cette possibilité.)
+
+Il serait bon d’utiliser la salle B214 comme salle de réunion, l’aspect bruit alentours étant moins handicapant pour cet usage. Il faudrait alors déplacer les doctorants dans une autre salle (idéalement plus proche).
 
 Le groupe de travail propose d’utiliser la salle B214 comme salle de réunion permanente. La salle en A525 qui devrait être prochainement attribuée au LAMSADE servirait à remplacer son usage actuel (c-à-d à accueillir des doctorants).
 
@@ -63,28 +69,16 @@ Il est demandé de débloquer un budget pour développer une application web per
 * Un budget pour un mois de développement à temps plein devrait permettre ce développement de façon confortable. On pourrait pour ce faire engager un de nos étudiants, si la loi le permet. Olivier Cailloux est volontaire pour l’encadrement.
 * La valeur de marché d’une salle de réunion à Paris est de 600 € / mois. Le budget sera rapidement amorti, si on calcule à sa juste valeur l’apport d’une gestion commode de nos salles de réunions et le temps de notre personnel.
 
-=== Propagation
-Il est suggéré à la direction d’envoyer un appel officiel aux bonnes volontés : les volontaires prêts à créer une place dans leur bureau pour accueillir eux aussi un doctorant sont invités à se déclarer auprès de la direction.
-
-=== Climatisation
-D’ici à l’été prochain, il est proposé d’équiper les bureaux doctorants de climatiseurs mobiles.
-
-=== Demande de modules supplémentaires à Paris-Dauphine
-D’après les règles d’attribution officielles, le LAMSADE a semble-t-il droit à 44 modules, et en dispose en pratique de 42,5 (voir `Occupation.odt` sur OwnCloud). Ces totaux devraient être vérifiés par la direction et pourraient servir de base pour une (re-)négociation future.
-
-=== Échange C602 et C603
-Il est proposé d’étudier la possibilité de négocier avec la bibliothèque un échange de leur bureau C603 (très peu occupé) contre le bureau doctorant C602 (plus petit ?).
-
-== Pistes postposées
+=== Autres pistes de réflexion
 D’autres pistes de réflexion ont été évoquées par le groupe. Elles sont listées ici sans ordre de priorité et sont éventuellement à conserver pour étude ultérieure.
 
-* Créer des bureaux volants (mais difficile de se sentir chez soi : on n’ose pas pousser les affaires, on a peur de renverser, la personne n’a pas totalement libéré la place, on ne peut pas laisser ses papiers…)
+* Bureaux volants pour doctorants (mais difficile de se sentir chez soi : on n’ose pas pousser les affaires, on a peur de renverser, la personne n’a pas totalement libéré la place, on ne peut pas laisser ses papiers…)
 * Suggérer de relâcher l’obligation de présence (mais légitimité, tact ?)
-* Modifier proportion 1/5 entre doctorant et rang A dans règle d’attribution (mais à faire niveau Dauphine ?) ; faire dépendre des responsabilités ; échanger contre bourses, financements ; inciter à accueillir ses propres doctorants (mais mélange des genres malvenu ?)
+* Modifier proportion 1/5 entre doctorant et rang A dans règle d’attribution (mais à faire niveau Dauphine ?) ; inciter à accueillir ses propres doctorants ; faire dépendre des responsabilités ; échanger contre bourses, financements (mais mélange des genres malvenu ?)
 * Aménager une vraie salle de réunion : projecteur, mobilier adéquat, pour groupe de lecture, mini séminaire…
 * Bureaux volants pour membres peu présents (mais délicat, plutôt agir sur base volontaire ?)
 * Comparer la place de nos doctorants avec celle des autres labos (mais ne pas procéder par envie ?)
 * Suivre l’initiative casques anti-bruits
 * Bureau commun CEREMADE et LAMSADE (problème de gestion commune ?)
-* Solution créative pour troquer les bureaux en B2 (mais déjà tenté)
+* Solution créative pour troquer les bureaux en B2 (mais déjà tenté : rejet du troc de ces deux bureaux contre 1,5 par Olivier Glass (ancien directeur du ceremade) puis par Vincent Rivoirard (actuel))
 
